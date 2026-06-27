@@ -16,7 +16,7 @@ PRODUCT_VENDOR_PROPERTIES += \
 
 # DolbyManager
 PRODUCT_PACKAGES += \
-    LunarisDolby
+    XiaomiDolby
 
 # Overlay-RRO
 PRODUCT_PACKAGES += \
